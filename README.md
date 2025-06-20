@@ -1,5 +1,5 @@
-- Nama : Wildan Devanata Rizkyvianto
-- NIM  : A11.2022.14593
+- Nama : Mimo Sukma Aliefasa
+- NIM  : A11.2022.14592
 - KELOMPOK : A11.4601
 - MATKUL   : PEMOGRAMAN SISI SERVER
 - TUGAS AUTOMATIC TESTING
